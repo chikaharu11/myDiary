@@ -24,3 +24,7 @@
 
 # The Instant_DrumPad_Retro_Video_Game was released on June 22, 2021.
 2021年6月22日にInstant_DrumPad_Retro_Video_Gameをリリース。
+
+
+# The MTG Random Card Search was released on July 12, 2021.
+2021年7月12日にMTG Random Card Searchをリリース。
