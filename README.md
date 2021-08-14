@@ -10,8 +10,8 @@
 2021年2月21日にSegare_Samplerをリリース。
 
 
-# The Instant_DrumPad_TR808 was released on June 2, 2021.
-2021年6月2日にInstant_DrumPad_TR808をリリース。
+# The Instant_DrumPad_TR-808 was released on June 2, 2021.
+2021年6月2日にInstant_DrumPad_TR-808をリリース。
 
 
 # The Instant_DrumPad_BreakBeats was released on June 10, 2021.
